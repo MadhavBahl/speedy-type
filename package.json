@@ -1,7 +1,6 @@
 {
   "name": "speedy-type",
   "version": "0.1.0",
-  "private": true,
   "home": "https://madhavbahl.tech/speedy-type/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
