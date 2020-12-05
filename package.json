@@ -2,7 +2,7 @@
   "name": "speedy-type",
   "version": "0.1.0",
   "private": true,
-  "home": "http://madhavbahl.tech/speedy-type",
+  "home": "https://madhavbahl.tech/speedy-type/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
